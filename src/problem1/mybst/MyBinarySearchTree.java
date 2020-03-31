@@ -1,7 +1,8 @@
 /*
  *  Created by IntelliJ IDEA.
  *  User: Pranav Tomar
- *  Assignment 2 Data structure and algorithms
+ *  Roll no.: 32 (181500475)
+ *  section: B
  */
 package problem1.mybst;
 
